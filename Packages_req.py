@@ -1,1 +1,0 @@
-print("The package needed for this project is pygame in pip")
