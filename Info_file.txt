@@ -1,3 +1,12 @@
 Information about my alien Invasion project
 Rules:
+1.The player controls a ship that appears at the bottom center of the screen.
+2.The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar.
+3.When the game begins, a fleet of aliens fills the sky and moves across and down the screen.
+4.The aim is to shoot down a fleet of aliens as they drop down the screen in levels 
+5.The speed and difficulty will be increased after each level 
+6.  If any alien hits the player’s ship or reaches the bottom of the screen, the player loses a ship. 
+7.If the player loses three ships, the game ends.
 
+
+Hope u enjoy the game, Good Luck 
