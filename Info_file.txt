@@ -7,6 +7,7 @@ Rules:
 5.The speed and difficulty will be increased after each level 
 6.  If any alien hits the player’s ship or reaches the bottom of the screen, the player loses a ship. 
 7.If the player loses three ships, the game ends.
+8.Press Q or 'x' mark to quit the game.
 
 
 Hope u enjoy the game, Good Luck 
